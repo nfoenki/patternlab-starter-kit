@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><defs><svg version="1.1" id="marker" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">.ast0{fill:#070707}</style>
+<path class="ast0" d="M256,61.53c-76.57,0-138.64,62.07-138.64,138.64S256,450.47,256,450.47s138.64-173.73,138.64-250.3
+	S332.57,61.53,256,61.53z M256,264.25c-38.82,0-70.28-31.47-70.28-70.28c0-38.82,31.47-70.28,70.28-70.28s70.28,31.47,70.28,70.28
+	C326.28,232.79,294.82,264.25,256,264.25z"/>
+</svg><svg version="1.1" viewBox="0 0 16 16" id="minus" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 6.5v3c0 0.276 0.224 0.5 0.5 0.5h15c0.276 0 0.5-0.224 0.5-0.5v-3c0-0.276-0.224-0.5-0.5-0.5h-15c-0.276 0-0.5 0.224-0.5 0.5z"/>
+</svg><svg version="1.1" viewBox="0 0 16 16" id="plus" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.5 6h-5.5v-5.5c0-0.276-0.224-0.5-0.5-0.5h-3c-0.276 0-0.5 0.224-0.5 0.5v5.5h-5.5c-0.276 0-0.5 0.224-0.5 0.5v3c0 0.276 0.224 0.5 0.5 0.5h5.5v5.5c0 0.276 0.224 0.5 0.5 0.5h3c0.276 0 0.5-0.224 0.5-0.5v-5.5h5.5c0.276 0 0.5-0.224 0.5-0.5v-3c0-0.276-0.224-0.5-0.5-0.5z"/>
+</svg><svg version="1.1" viewBox="0 0 15 16" id="search" xmlns="http://www.w3.org/2000/svg">
+<path d="M15 13l-3.893-3.893c0.556-0.907 0.893-1.964 0.893-3.107 0-3.313-2.688-6-6-6s-6 2.687-6 6c0 3.313 2.687 6 6 6 1.143 0 2.2-0.337 3.107-0.891l3.893 3.891c0.273 0.273 0.727 0.271 1 0l1-1c0.273-0.273 0.273-0.727 0-1zM6 10c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4z"/>
+</svg><svg version="1.1" viewBox="0 0 12 16" id="triangle-down" xmlns="http://www.w3.org/2000/svg">
+<title>triangle-down</title>
+<path fill="#444" d="M0 6l5.996 5.996 5.996-5.996h-11.992z"/>
+</svg><svg version="1.1" viewBox="0 0 6 16" id="triangle-left" xmlns="http://www.w3.org/2000/svg">
+<title>triangle-left</title>
+<path fill="#444" d="M0 7.998l5.996 5.996v-11.992l-5.996 5.996z"/>
+</svg><svg version="1.1" viewBox="0 0 6 16" id="triangle-right" xmlns="http://www.w3.org/2000/svg">
+<title>triangle-right</title>
+<path fill="#444" d="M0.001 2.004l5.996 5.996-5.996 5.996v-11.992z"/>
+</svg><svg version="1.1" viewBox="0 0 12 16" id="triangle-up" xmlns="http://www.w3.org/2000/svg">
+<title>triangle-up</title>
+<path fill="#444" d="M5.996 4l-5.996 5.996h11.992l-5.996-5.996z"/>
+</svg></defs></svg>

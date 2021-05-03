@@ -1,0 +1,27 @@
+{
+  "dest": "public/",
+  "transform": [],
+  "shape": {
+    "dimensions" : {
+      "attributes": true
+    },
+    "transform": false
+  },
+  "mode": {
+    "defs": {
+      "sprite": "../images/icons.svg",
+      "dimensions" : false,
+      "bust": false,
+      "inline": false,
+      "example": {
+        "dest": "../../source/_patterns/00-atoms/03-pictos/icons.hbs"
+      },
+      "render": {
+        "scss": {
+          "dest": "../../source/css/scss/_sprite.scss"
+        }
+      }
+    }
+  },
+  "variables": {}
+}
